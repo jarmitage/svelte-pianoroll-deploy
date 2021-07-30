@@ -18,10 +18,14 @@
         width: 100%;
         height:100%;
     }
+    #title{
+        margin-top: 20px;
+    }
     h1 {
         font-family: Helvetica;
         text-align: center;
         color: #fff;
+        font-weight: bold;
     }
     #row {
         /* width: 100%; */
