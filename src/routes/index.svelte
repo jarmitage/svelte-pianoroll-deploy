@@ -1,50 +1,49 @@
 <script>
-	import successkid from 'images/successkid.jpg';
+
+    import PianoRoll from '../layouts/PianoRoll.svelte'
+    import Controls from '../layouts/Controls.svelte'
+    import Transport from '../components/Transport/Transport.svelte'
+    import { TransportStore as TP } from '../stores/transportStore'
+
+    let pianoRollWidth = 640
+    let pianoRollHeight = 640
+
+    let controlsWidth = 640
+    let controlsHeight = 640
+
 </script>
 
 <style>
-	h1, figure, p {
-		text-align: center;
-		margin: 0 auto;
-	}
-
-	h1 {
-		font-size: 2.8em;
-		text-transform: uppercase;
-		font-weight: 700;
-		margin: 0 0 0.5em 0;
-	}
-
-	figure {
-		margin: 0 0 1em 0;
-	}
-
-	img {
-		width: 100%;
-		max-width: 400px;
-		margin: 0 0 1em 0;
-	}
-
-	p {
-		margin: 1em auto;
-	}
-
-	@media (min-width: 480px) {
-		h1 {
-			font-size: 4em;
-		}
-	}
+    #container {
+        width: 100%;
+        height:100%;
+    }
+    h1 {
+        font-family: Helvetica;
+        text-align: center;
+        color: #fff;
+    }
+    #row {
+        /* width: 100%; */
+        padding-top:20px;
+        display: grid;
+        grid-template-columns: repeat(2, 5fr);
+    }
+    #transport{
+        margin-top: 50px;
+        /* height: 50px; */
+    }
 </style>
 
-<svelte:head>
-	<title>Sapper project template</title>
-</svelte:head>
-
-<h1>Great success!</h1>
-
-<figure>
-	<img alt="Success Kid" src="{successkid}">
-	<figcaption>Have fun with Sapper!</figcaption>
-</figure>
-
-<p><strong>Try editing this file (src/routes/index.svelte) to test live reloading.</strong></p>
+<div id="container">
+    <div id="title">
+        <h1>Musical Regularisation of Latent Space</h1>
+    </div>
+    <div id="row">
+        <Controls width={controlsWidth} height={controlsHeight}/>
+        <PianoRoll width={pianoRollWidth} height={pianoRollHeight}/>
+    </div>
+    <div id="transport">
+        <Transport/>
+    </div>
+</div>

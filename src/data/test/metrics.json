@@ -1,0 +1,488 @@
+{
+    "midi_1": {
+      "Metric_1": 0.5,
+      "Metric_2": 1,
+      "Metric_3": 0,
+      "Metric_4": 1
+    },
+    "midi_2": {
+      "Metric_1": 0.5,
+      "Metric_2": 0,
+      "Metric_3": 1,
+      "Metric_4": 1
+    },
+    "midi_3": {
+      "Metric_1": 0.5,
+      "Metric_2": 0,
+      "Metric_3": 0,
+      "Metric_4": 0.5
+    },
+    "midi_4": {
+      "Metric_1": 0.5,
+      "Metric_2": 0,
+      "Metric_3": 0.5,
+      "Metric_4": 1
+    },
+    "midi_5": {
+      "Metric_1": 1,
+      "Metric_2": 0,
+      "Metric_3": 0,
+      "Metric_4": 0.5
+    },
+    "midi_6": {
+      "Metric_1": 0,
+      "Metric_2": 0,
+      "Metric_3": 0.5,
+      "Metric_4": 1
+    },
+    "midi_7": {
+      "Metric_1": 0.5,
+      "Metric_2": 0.5,
+      "Metric_3": 1,
+      "Metric_4": 0.5
+    },
+    "midi_8": {
+      "Metric_1": 0,
+      "Metric_2": 0,
+      "Metric_3": 0,
+      "Metric_4": 0
+    },
+    "midi_9": {
+      "Metric_1": 1,
+      "Metric_2": 0,
+      "Metric_3": 1,
+      "Metric_4": 0
+    },
+    "midi_10": {
+      "Metric_1": 1,
+      "Metric_2": 0.5,
+      "Metric_3": 0.5,
+      "Metric_4": 0.5
+    },
+    "midi_11": {
+      "Metric_1": 0.5,
+      "Metric_2": 0.5,
+      "Metric_3": 1,
+      "Metric_4": 0
+    },
+    "midi_12": {
+      "Metric_1": 0,
+      "Metric_2": 0.5,
+      "Metric_3": 1,
+      "Metric_4": 1
+    },
+    "midi_13": {
+      "Metric_1": 0.5,
+      "Metric_2": 0.5,
+      "Metric_3": 1,
+      "Metric_4": 1
+    },
+    "midi_14": {
+      "Metric_1": 0,
+      "Metric_2": 1,
+      "Metric_3": 0,
+      "Metric_4": 0
+    },
+    "midi_15": {
+      "Metric_1": 0.5,
+      "Metric_2": 0,
+      "Metric_3": 1,
+      "Metric_4": 0.5
+    },
+    "midi_16": {
+      "Metric_1": 1,
+      "Metric_2": 1,
+      "Metric_3": 0,
+      "Metric_4": 1
+    },
+    "midi_17": {
+      "Metric_1": 0,
+      "Metric_2": 0.5,
+      "Metric_3": 1,
+      "Metric_4": 0
+    },
+    "midi_18": {
+      "Metric_1": 0,
+      "Metric_2": 1,
+      "Metric_3": 1,
+      "Metric_4": 1
+    },
+    "midi_19": {
+      "Metric_1": 0,
+      "Metric_2": 0.5,
+      "Metric_3": 0.5,
+      "Metric_4": 1
+    },
+    "midi_20": {
+      "Metric_1": 1,
+      "Metric_2": 0.5,
+      "Metric_3": 0,
+      "Metric_4": 0
+    },
+    "midi_21": {
+      "Metric_1": 0.5,
+      "Metric_2": 0.5,
+      "Metric_3": 0,
+      "Metric_4": 0.5
+    },
+    "midi_22": {
+      "Metric_1": 1,
+      "Metric_2": 0,
+      "Metric_3": 0.5,
+      "Metric_4": 0.5
+    },
+    "midi_23": {
+      "Metric_1": 1,
+      "Metric_2": 1,
+      "Metric_3": 1,
+      "Metric_4": 0.5
+    },
+    "midi_24": {
+      "Metric_1": 0,
+      "Metric_2": 0.5,
+      "Metric_3": 0.5,
+      "Metric_4": 0
+    },
+    "midi_25": {
+      "Metric_1": 0,
+      "Metric_2": 0,
+      "Metric_3": 0.5,
+      "Metric_4": 0
+    },
+    "midi_26": {
+      "Metric_1": 0,
+      "Metric_2": 1,
+      "Metric_3": 0.5,
+      "Metric_4": 0.5
+    },
+    "midi_27": {
+      "Metric_1": 1,
+      "Metric_2": 0.5,
+      "Metric_3": 1,
+      "Metric_4": 1
+    },
+    "midi_28": {
+      "Metric_1": 0.5,
+      "Metric_2": 1,
+      "Metric_3": 1,
+      "Metric_4": 0
+    },
+    "midi_29": {
+      "Metric_1": 0.5,
+      "Metric_2": 0.5,
+      "Metric_3": 0.5,
+      "Metric_4": 0.5
+    },
+    "midi_30": {
+      "Metric_1": 0.5,
+      "Metric_2": 1,
+      "Metric_3": 0,
+      "Metric_4": 0
+    },
+    "midi_31": {
+      "Metric_1": 1,
+      "Metric_2": 0,
+      "Metric_3": 0.5,
+      "Metric_4": 0
+    },
+    "midi_32": {
+      "Metric_1": 1,
+      "Metric_2": 0.5,
+      "Metric_3": 0.5,
+      "Metric_4": 1
+    },
+    "midi_33": {
+      "Metric_1": 1,
+      "Metric_2": 1,
+      "Metric_3": 0,
+      "Metric_4": 0.5
+    },
+    "midi_34": {
+      "Metric_1": 1,
+      "Metric_2": 0,
+      "Metric_3": 0,
+      "Metric_4": 1
+    },
+    "midi_35": {
+      "Metric_1": 0.5,
+      "Metric_2": 0,
+      "Metric_3": 0.5,
+      "Metric_4": 0.5
+    },
+    "midi_36": {
+      "Metric_1": 0,
+      "Metric_2": 0,
+      "Metric_3": 0,
+      "Metric_4": 0.5
+    },
+    "midi_37": {
+      "Metric_1": 0,
+      "Metric_2": 0.5,
+      "Metric_3": 0,
+      "Metric_4": 1
+    },
+    "midi_38": {
+      "Metric_1": 0.5,
+      "Metric_2": 1,
+      "Metric_3": 0,
+      "Metric_4": 0.5
+    },
+    "midi_39": {
+      "Metric_1": 0.5,
+      "Metric_2": 0,
+      "Metric_3": 0,
+      "Metric_4": 1
+    },
+    "midi_40": {
+      "Metric_1": 0.5,
+      "Metric_2": 0,
+      "Metric_3": 1,
+      "Metric_4": 0
+    },
+    "midi_41": {
+      "Metric_1": 0,
+      "Metric_2": 0.5,
+      "Metric_3": 1,
+      "Metric_4": 0.5
+    },
+    "midi_42": {
+      "Metric_1": 0.5,
+      "Metric_2": 0.5,
+      "Metric_3": 0.5,
+      "Metric_4": 0
+    },
+    "midi_43": {
+      "Metric_1": 1,
+      "Metric_2": 0,
+      "Metric_3": 1,
+      "Metric_4": 1
+    },
+    "midi_44": {
+      "Metric_1": 0,
+      "Metric_2": 0,
+      "Metric_3": 0,
+      "Metric_4": 1
+    },
+    "midi_45": {
+      "Metric_1": 0.5,
+      "Metric_2": 1,
+      "Metric_3": 1,
+      "Metric_4": 1
+    },
+    "midi_46": {
+      "Metric_1": 0.5,
+      "Metric_2": 0.5,
+      "Metric_3": 0,
+      "Metric_4": 0
+    },
+    "midi_47": {
+      "Metric_1": 0,
+      "Metric_2": 0.5,
+      "Metric_3": 0,
+      "Metric_4": 0.5
+    },
+    "midi_48": {
+      "Metric_1": 0,
+      "Metric_2": 0,
+      "Metric_3": 1,
+      "Metric_4": 0
+    },
+    "midi_49": {
+      "Metric_1": 0.5,
+      "Metric_2": 1,
+      "Metric_3": 0.5,
+      "Metric_4": 0.5
+    },
+    "midi_50": {
+      "Metric_1": 1,
+      "Metric_2": 0.5,
+      "Metric_3": 1,
+      "Metric_4": 0.5
+    },
+    "midi_51": {
+      "Metric_1": 1,
+      "Metric_2": 0.5,
+      "Metric_3": 0,
+      "Metric_4": 0.5
+    },
+    "midi_52": {
+      "Metric_1": 0,
+      "Metric_2": 1,
+      "Metric_3": 1,
+      "Metric_4": 0
+    },
+    "midi_53": {
+      "Metric_1": 1,
+      "Metric_2": 1,
+      "Metric_3": 0.5,
+      "Metric_4": 1
+    },
+    "midi_54": {
+      "Metric_1": 1,
+      "Metric_2": 0,
+      "Metric_3": 1,
+      "Metric_4": 0.5
+    },
+    "midi_55": {
+      "Metric_1": 0,
+      "Metric_2": 0,
+      "Metric_3": 1,
+      "Metric_4": 1
+    },
+    "midi_56": {
+      "Metric_1": 1,
+      "Metric_2": 1,
+      "Metric_3": 1,
+      "Metric_4": 0
+    },
+    "midi_57": {
+      "Metric_1": 1,
+      "Metric_2": 0,
+      "Metric_3": 0,
+      "Metric_4": 0
+    },
+    "midi_58": {
+      "Metric_1": 0.5,
+      "Metric_2": 1,
+      "Metric_3": 0.5,
+      "Metric_4": 1
+    },
+    "midi_59": {
+      "Metric_1": 0,
+      "Metric_2": 0,
+      "Metric_3": 1,
+      "Metric_4": 0.5
+    },
+    "midi_60": {
+      "Metric_1": 1,
+      "Metric_2": 0.5,
+      "Metric_3": 1,
+      "Metric_4": 0
+    },
+    "midi_61": {
+      "Metric_1": 0.5,
+      "Metric_2": 0.5,
+      "Metric_3": 0,
+      "Metric_4": 1
+    },
+    "midi_62": {
+      "Metric_1": 0,
+      "Metric_2": 1,
+      "Metric_3": 0,
+      "Metric_4": 1
+    },
+    "midi_63": {
+      "Metric_1": 1,
+      "Metric_2": 0.5,
+      "Metric_3": 0.5,
+      "Metric_4": 0
+    },
+    "midi_64": {
+      "Metric_1": 0.5,
+      "Metric_2": 1,
+      "Metric_3": 0.5,
+      "Metric_4": 0
+    },
+    "midi_65": {
+      "Metric_1": 0,
+      "Metric_2": 0.5,
+      "Metric_3": 0.5,
+      "Metric_4": 0.5
+    },
+    "midi_66": {
+      "Metric_1": 0,
+      "Metric_2": 0.5,
+      "Metric_3": 0,
+      "Metric_4": 0
+    },
+    "midi_67": {
+      "Metric_1": 0,
+      "Metric_2": 1,
+      "Metric_3": 0.5,
+      "Metric_4": 0
+    },
+    "midi_68": {
+      "Metric_1": 1,
+      "Metric_2": 1,
+      "Metric_3": 0.5,
+      "Metric_4": 0
+    },
+    "midi_69": {
+      "Metric_1": 0.5,
+      "Metric_2": 1,
+      "Metric_3": 1,
+      "Metric_4": 0.5
+    },
+    "midi_70": {
+      "Metric_1": 0,
+      "Metric_2": 1,
+      "Metric_3": 1,
+      "Metric_4": 0.5
+    },
+    "midi_71": {
+      "Metric_1": 1,
+      "Metric_2": 0,
+      "Metric_3": 0.5,
+      "Metric_4": 1
+    },
+    "midi_72": {
+      "Metric_1": 0,
+      "Metric_2": 1,
+      "Metric_3": 0.5,
+      "Metric_4": 1
+    },
+    "midi_73": {
+      "Metric_1": 0.5,
+      "Metric_2": 0,
+      "Metric_3": 0,
+      "Metric_4": 0
+    },
+    "midi_74": {
+      "Metric_1": 1,
+      "Metric_2": 1,
+      "Metric_3": 0.5,
+      "Metric_4": 0.5
+    },
+    "midi_75": {
+      "Metric_1": 1,
+      "Metric_2": 1,
+      "Metric_3": 1,
+      "Metric_4": 1
+    },
+    "midi_76": {
+      "Metric_1": 0.5,
+      "Metric_2": 0.5,
+      "Metric_3": 0.5,
+      "Metric_4": 1
+    },
+    "midi_77": {
+      "Metric_1": 0,
+      "Metric_2": 1,
+      "Metric_3": 0,
+      "Metric_4": 0.5
+    },
+    "midi_78": {
+      "Metric_1": 0.5,
+      "Metric_2": 0,
+      "Metric_3": 0.5,
+      "Metric_4": 0
+    },
+    "midi_79": {
+      "Metric_1": 1,
+      "Metric_2": 1,
+      "Metric_3": 0,
+      "Metric_4": 0
+    },
+    "midi_80": {
+      "Metric_1": 1,
+      "Metric_2": 0.5,
+      "Metric_3": 0,
+      "Metric_4": 1
+    },
+    "midi_81": {
+      "Metric_1": 0,
+      "Metric_2": 0,
+      "Metric_3": 0.5,
+      "Metric_4": 0.5
+    }
+}
